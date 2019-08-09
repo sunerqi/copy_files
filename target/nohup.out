@@ -1,0 +1,55 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.7.RELEASE)
+
+2019-08-09 16:31:08.876  INFO 24894 --- [           main] c.s.syncfiles.SyncFilesApplication       : Starting SyncFilesApplication v1.0.0 on long-TM1703 with PID 24894 (/home/long/projects/pahf2/sync-files/target/sync-files-1.0.0.jar started by long in /home/long/projects/pahf2/sync-files/target)
+2019-08-09 16:31:08.878  INFO 24894 --- [           main] c.s.syncfiles.SyncFilesApplication       : No active profile set, falling back to default profiles: default
+2019-08-09 16:31:09.335  INFO 24894 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-09 16:31:09.357  INFO 24894 --- [           main] c.s.syncfiles.SyncFilesApplication       : Started SyncFilesApplication in 0.71 seconds (JVM running for 1.036)
+2019-08-09 16:31:49.505  INFO 24894 --- [       Thread-2] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.7.RELEASE)
+
+2019-08-09 16:32:32.034  INFO 24979 --- [           main] c.s.syncfiles.SyncFilesApplication       : Starting SyncFilesApplication v1.0.0 on long-TM1703 with PID 24979 (/home/long/projects/pahf2/sync-files/target/sync-files-1.0.0.jar started by long in /home/long/projects/pahf2/sync-files/target)
+2019-08-09 16:32:32.036  INFO 24979 --- [           main] c.s.syncfiles.SyncFilesApplication       : No active profile set, falling back to default profiles: default
+2019-08-09 16:32:32.594  INFO 24979 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-09 16:32:32.613  INFO 24979 --- [           main] c.s.syncfiles.SyncFilesApplication       : Started SyncFilesApplication in 0.818 seconds (JVM running for 1.161)
+2019-08-09 16:35:21.777  INFO 24979 --- [       Thread-2] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.7.RELEASE)
+
+2019-08-09 16:38:36.665  INFO 25096 --- [           main] c.s.syncfiles.SyncFilesApplication       : Starting SyncFilesApplication v1.0.0 on long-TM1703 with PID 25096 (/home/long/projects/pahf2/sync-files/target/sync-files-1.0.0.jar started by long in /home/long/projects/pahf2/sync-files/target)
+2019-08-09 16:38:36.670  INFO 25096 --- [           main] c.s.syncfiles.SyncFilesApplication       : No active profile set, falling back to default profiles: default
+2019-08-09 16:38:37.065  INFO 25096 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-09 16:38:37.087  INFO 25096 --- [           main] c.s.syncfiles.SyncFilesApplication       : Started SyncFilesApplication in 0.672 seconds (JVM running for 1.015)
+2019-08-09 16:43:06.171  INFO 25096 --- [       Thread-2] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.7.RELEASE)
+
+2019-08-09 16:43:11.957  INFO 25597 --- [           main] c.s.syncfiles.SyncFilesApplication       : Starting SyncFilesApplication v1.0.0 on long-TM1703 with PID 25597 (/home/long/projects/pahf2/sync-files/target/sync-files-1.0.0.jar started by long in /home/long/projects/pahf2/sync-files/target)
+2019-08-09 16:43:11.959  INFO 25597 --- [           main] c.s.syncfiles.SyncFilesApplication       : No active profile set, falling back to default profiles: default
+2019-08-09 16:43:12.386  INFO 25597 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-08-09 16:43:12.404  INFO 25597 --- [           main] c.s.syncfiles.SyncFilesApplication       : Started SyncFilesApplication in 0.666 seconds (JVM running for 0.959)
